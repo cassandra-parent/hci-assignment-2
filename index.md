@@ -42,7 +42,13 @@ While these are a couple of examples for universal design, this certainly isn't 
 ## Designing for Joy
 While integrating accessible technology into essential web services is great, it is also important to look beyond traditional accessibility applications <sup>[5](https://link.springer.com/chapter/10.1007/978-3-319-20916-6_38)</sup>. This is because while accessible technology is becoming more prevalent in essential web services, there still are very few accessible technologies designed for recreational use <sup>[5](https://link.springer.com/chapter/10.1007/978-3-319-20916-6_38)</sup>. 
 
-Video games are enjoyed as creative, emotional, and social outlets for many <sup>[6](https://link.springer.com/chapter/10.1007/978-3-030-23560-4_22)</sup>. However, for a growing number of people with disabilities and/or those acquiring disabilities due to age-related decline, this kind of media is becoming inaccessible <sup>[6](https://link.springer.com/chapter/10.1007/978-3-030-23560-4_22)</sup>. Many pop
+For instance, video games act as creative, emotional, and social outlets and bring joy to many individuals <sup>[6](https://link.springer.com/chapter/10.1007/978-3-030-23560-4_22)</sup>. However, video games remain accessible for a majority of people with disabilities <sup>[6](https://link.springer.com/chapter/10.1007/978-3-030-23560-4_22)</sup>. Many popular video games still do not have transcriptions for audio cues, use too small fonts, and do not provide easier difficulties <sup>[7](https://journals.sagepub.com/doi/full/10.1177/1555412020971500)</sup>.
+
+A group of students altered the game _Bubble Trip_ (pictured below) to make it more accessible for individuals who are low-vision or blind <sup>[6](https://link.springer.com/chapter/10.1007/978-3-030-23560-4_22)</sup>.
+
+![video_game](video_game.JPG)
+
+Students did this by adding sonification that explained things like game instructions, the current objective, and fish motion <sup>[6](https://link.springer.com/chapter/10.1007/978-3-030-23560-4_22)</sup>. This serves as an important proof of concept that that video games can be accessible for a broad audience. However, it is important that accessible changes are made by large gaming companies so that individuals with disabilities can be included in these popular social activities. 
 
 ## Improvement
 While these tips and resources are great to get start in accessible design, as a designer, it is important to continue to learn about accessibility and how it can best be achieved. [Here](https://www.a11yproject.com/resources/) is a compilation of resources including books, software packages, conferences, and more that are all about accessible design. By continuing to educate ourselves, we can become better and more inclusive designers. 
