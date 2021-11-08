@@ -16,18 +16,26 @@ However, the following video discusses how accessible design is not only extreme
 When developing accessible technology, it is important to consider that a wide range of disabilities exist, and that different disabilities could come with different needs <sup>[4](https://www.researchgate.net/publication/233608298_Conducting_Usability_Studies_with_Users_Who_Are_Elderly_or_Have_Disabilities)</sup>. Conducting usabilitiy studies with people who have a wide range of abilities is one of the best ways to ensure that your design is inclusive and accessible <sup>[4](https://www.researchgate.net/publication/233608298_Conducting_Usability_Studies_with_Users_Who_Are_Elderly_or_Have_Disabilities)</sup>
 . Click [here](https://a11yrules.com/series/a11y-rules-soundbite/) to listen to a variety of short podcasts where disabled users talk about their diverse challenges when interacting with online technologies. 
 
-<center>![image](disability_range.jpeg)</center>
-  
-[test](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)
+<center>![image][(https://github.com/clparent121/hci-assignment-2/blob/gh-pages/disability_range.jpeg)](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)</center>
 
 In addition, adding diverse users to your development team can allow for a more holistic perspective to be incorporated into the final design. Click [here](https://www.a11yproject.com/posts/2021-10-11-how-i-deal-with-colorblindness-as-a-digital-product-designer/) to read about a colorblind designer's perspective on the challenges and advantages of his disability in design groups. 
 
 ## Implementation
 While there are a broad range of diabilities, there are a few simple things you can do to make your designs more accessible <sup>[2](https://content.iospress.com/articles/technology-and-disability/tad00242)</sup>. For instance, you can increase the contrast in your designs so people with visual impairments can better understand your content. 
 
-![image](https://github.com/clparent121/hci-assignment-2/blob/gh-pages/color_only.JPG)
+<center>![image](https://github.com/clparent121/hci-assignment-2/blob/gh-pages/contrast.JPG)</center>
 
+Another thing that could help individuals with visual impairments is the not just using color to indicate a task. Adding text or symbol descriptions can make these features more accessible.
 
+<center>![image](https://github.com/clparent121/hci-assignment-2/blob/gh-pages/color_only.JPG)</center>
+
+People with audio impairments have different needs. For them, adding a transcript option or closed captioning on a video can be really beneficial.
+
+<center>![image](https://github.com/clparent121/hci-assignment-2/blob/gh-pages/transcript.JPG)</center>
+
+Keep in mind that these changes also benefit users without disabilities: if you're watching a video in a loud setting, maybe you'll turn on the captions for your own understanding. In this way, accessibility also links to universal design which integrates accessible technologies into daily life <sup>[3](https://dl.acm.org/doi/abs/10.1145/3178855?casa_token=fCefw1GO1d0AAAAA:aDsxFfi060wTbTZ1LabQdP_dUklkE7ILuYbwNMQba8xhFRWrnvN7gDdkmFqt3EytKJdw5VTDDOye2w)</sup>.  
+
+While these are a couple of examples for universal design, this certainly isn't a comprehensive list. Please click [here](https://www.a11yproject.com/checklist/) to find a much more thorough checklist of accessible design guidelines. 
 
 ## Designing for Joy
 
