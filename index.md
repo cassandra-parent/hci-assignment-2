@@ -1,5 +1,17 @@
-## Welcome to GitHub Pages
+## A Reflection on Accessibility in Technology Design
 
+Cassandra Parent
+
+_For all text-based citations, please click on the super scripts to be taken the the source. For images and videos, click the content to be taken to the original source._
+
+###The Problem
+Inclusive and accessible design is aimed to accomodate the diverse abilities of people<sup>[1](https://www.sciencedirect.com/science/article/pii/S0142694X1730087X)</sup>. There are many reasons that traditional technology may not be inclusive of people with disabilities including complicated instructions, lack of visual aides, and inconsistent navigation <sup>[2](https://content.iospress.com/articles/technology-and-disability/tad00242)</sup>. Despite simple technology changes being transformative for disadvantaged communities, mainstream personal technologies still largely remain inaccessible <sup>[3](https://dl.acm.org/doi/abs/10.1145/3178855?casa_token=fCefw1GO1d0AAAAA:aDsxFfi060wTbTZ1LabQdP_dUklkE7ILuYbwNMQba8xhFRWrnvN7gDdkmFqt3EytKJdw5VTDDOye2w)</sup>. OFtentimes, these mainstream designers will do the bare minimum to satisfy the legal requirements for accessibility<sup>[3](https://dl.acm.org/doi/abs/10.1145/3178855?casa_token=fCefw1GO1d0AAAAA:aDsxFfi060wTbTZ1LabQdP_dUklkE7ILuYbwNMQba8xhFRWrnvN7gDdkmFqt3EytKJdw5VTDDOye2w)</sup>. 
+
+However, the following video discusses how accessible design is not only extremely beneficial for users, but also greatly expands user bases of technologies. As the video explains, with one in five people having some sort of disability, having accessible design is essential for success. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJfhi2P60Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Please click 
 You can use the [editor on GitHub](https://github.com/clparent121/hci-assignment-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
