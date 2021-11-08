@@ -11,12 +11,14 @@ However, the following video discusses how accessible design is not only extreme
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/dJfhi2P60Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+## Development
 
 When developing accessible technology, it is important to consider that a wide range of disabilities exist, and that different disabilities could come with different needs <sup>[4](https://www.researchgate.net/publication/233608298_Conducting_Usability_Studies_with_Users_Who_Are_Elderly_or_Have_Disabilities)</sup>. Conducting usabilitiy studies with people who have a wide range of abilities is one of the best ways to ensure that your design is inclusive and accessible <sup>[4](https://www.researchgate.net/publication/233608298_Conducting_Usability_Studies_with_Users_Who_Are_Elderly_or_Have_Disabilities)</sup>
-. 
+. Click [here](https://a11yrules.com/series/a11y-rules-soundbite/) to listen to a variety of short podcasts where disabled users talk about their diverse challenges when interacting with online technologies. 
 
-![image][(images/disability_range.jpeg)](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)
+![image][(disability_range.jpeg)](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)
 
+In addition, adding diverse users to your development team can allow for a more holistic perspective to be incorporated into the final design. Click [here](https://www.a11yproject.com/posts/2021-10-11-how-i-deal-with-colorblindness-as-a-digital-product-designer/) to read about a colorblind designer's perspective on the challenges and advantages of his disability in design groups. 
 Please click 
 You can use the [editor on GitHub](https://github.com/clparent121/hci-assignment-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
