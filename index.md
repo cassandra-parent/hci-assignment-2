@@ -16,45 +16,16 @@ However, the following video discusses how accessible design is not only extreme
 When developing accessible technology, it is important to consider that a wide range of disabilities exist, and that different disabilities could come with different needs <sup>[4](https://www.researchgate.net/publication/233608298_Conducting_Usability_Studies_with_Users_Who_Are_Elderly_or_Have_Disabilities)</sup>. Conducting usabilitiy studies with people who have a wide range of abilities is one of the best ways to ensure that your design is inclusive and accessible <sup>[4](https://www.researchgate.net/publication/233608298_Conducting_Usability_Studies_with_Users_Who_Are_Elderly_or_Have_Disabilities)</sup>
 . Click [here](https://a11yrules.com/series/a11y-rules-soundbite/) to listen to a variety of short podcasts where disabled users talk about their diverse challenges when interacting with online technologies. 
 
-![image][(disability_range.jpeg)](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)
+<center>![image](disability_range.jpeg)</center>
+  
+[test](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)
 
 In addition, adding diverse users to your development team can allow for a more holistic perspective to be incorporated into the final design. Click [here](https://www.a11yproject.com/posts/2021-10-11-how-i-deal-with-colorblindness-as-a-digital-product-designer/) to read about a colorblind designer's perspective on the challenges and advantages of his disability in design groups. 
-Please click 
-You can use the [editor on GitHub](https://github.com/clparent121/hci-assignment-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Implementation
 
-### Markdown
+## Designing for Joy
 
-A Reflection on Accessibility in Technology Design
-Cassandra Parent
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clparent121/hci-assignment-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Improvement
+While these tips and resources are great to get start in accessible design, as a designer, it is important to continue to learn about accessibility and how it can best be achieved. [Here](https://www.a11yproject.com/resources/) is a compilation of resources including books, software packages, conferences, and more that are all about accessible design. By continuing to educate ourselves, we can become better and more inclusive designers. 
